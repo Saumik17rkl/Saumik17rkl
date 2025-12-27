@@ -1,27 +1,34 @@
-# 💫 About Me:
-🌌 **What I'm currently working on**<br>
-I'm an aspiring Machine Learning Engineer and Data Analyst, developing AI-driven accessibility solutions like real-time Indian Sign Language (ISL) translation tools and Conversational Image Recognition Chatbots. I also work on data analytics, computer vision, and NLP-based AI models, applying my skills in TensorFlow, Keras, and Power BI to solve real-world problems.<br><br>
 
-👥 **What I'm looking to collaborate on**<br>
-I'm open to collaborations in machine learning, AI for accessibility, NLP, computer vision, and data visualization. If you're building assistive technology, AI-powered chatbots, or real-time ISL interpreters, I'd love to contribute!<br><br>
 
-🤝 **What I'm looking for help with**<br><br>
-- Optimizing deep learning models for real-time translation<br>
-- Improving 3D avatar animations for ISL gestures<br>
-- Enhancing AI-powered accessibility tools<br>
-- Advanced data visualization techniques in Power BI<br><br>
+## 💫 About Me
 
-🌱 **What I'm currently learning**<br>
-I'm diving deeper into Generative AI, transfer learning, and real-time NLP models, along with advanced data visualization techniques to improve AI-driven decision-making.<br><br>
+🌌 **What I'm currently working on**
+I’m an aspiring **Machine Learning Engineer** focused on building practical AI systems using **computer vision, NLP, and deep learning**. I work with frameworks like **TensorFlow, Keras, and PyTorch** to develop **real-world, production-oriented ML solutions**.
 
-💬 **Topics people can ask me about**<br><br>
-- Machine Learning & Deep Learning (CNNs, NLP, TensorFlow, Keras)<br>
-- AI for Accessibility (Indian Sign Language translation, speech-to-text models)<br>
-- Data Science & Analytics (Power BI, Python, R, visualization)<br>
-- Real-Time AI Applications<br><br>
+👥 **What I'm looking to collaborate on**
+Machine learning, computer vision, NLP, backend-integrated AI systems, and real-time AI applications.
 
-⚡ **A fun fact about me**<br>
-Beyond AI and coding, I’m active in my college's Arts & Dramatics club and enjoy playing cricket. I love blending creativity with technology to build impactful solutions!<br><br>
+🤝 **What I'm looking for help with**
+
+* Scaling deep learning models for real-world performance
+* Improving deployment reliability and latency
+* Strengthening ML security and pipeline robustness
+* Advanced system design for AI applications
+
+🌱 **What I'm currently learning**
+I’m deepening my skills in **Generative AI, transfer learning, real-time NLP**, and **scalable backend + deployment workflows**.
+
+💬 **Topics people can ask me about**
+
+* Machine Learning & Deep Learning (CNNs, NLP, TensorFlow, Keras)
+* Computer Vision & Real-Time AI
+* NLP pipelines and model optimization
+* Backend-integrated AI systems
+
+⚡ **Fun fact**
+I value shipped systems over buzzwords — real impact > hype.
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saumik.chakraborty.d) 
